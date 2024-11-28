@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "name": "HOA ĐỖ QUYÊN",
+        "description": "Hoa đỗ quyên tượng trưng cho tình yêu, sự duyên dáng và sự cẩn trọng. Nó cũng mang ý nghĩa của hạnh phúc gia đình, sự sum vầy và lòng biết ơn, thường được tặng để thể hiện tình cảm chân thành và lời chúc tốt đẹp.",
+        "image": "images\/doquyen.jpg"
+    },
+    {
+        "id": 2,
+        "name": "HOA HẢI ĐƯỜNG",
+        "description": "Hoa hải đường biểu tượng cho sự phú quý, may mắn, hạnh phúc và sum vầy. Loài hoa này thường được xem là biểu tượng của tình bạn thân thiết, tình cảm gắn bó trong gia đình, và lời chúc thịnh vượng, đặc biệt vào dịp lễ Tết.",
+        "image": "images\/haiduong.jpg"
+    },
+    {
+        "id": 3,
+        "name": "HOA TƯỜNG VY",
+        "description": "Hoa tường vy biểu tượng cho tình yêu trong sáng, nhẹ nhàng và thuần khiết. Nó còn đại diện cho sự e ấp, dịu dàng của tuổi trẻ, cùng với ý nghĩa về sự kiên cường và mạnh mẽ vượt qua khó khăn. Loài hoa này thường gắn với vẻ đẹp mộc mạc nhưng đầy cuốn hút.",
+        "image": "images\/tuongvy.jpg"
+    },
+    {
+        "id": 4,
+        "name": "HOA MAI",
+        "description": "Hoa mai tượng trưng cho may mắn, thịnh vượng, sự kiên cường, thanh cao và niềm vui đoàn tụ. Nó đại diện cho sức sống mãnh liệt và tinh thần không khuất phục trước khó khăn.",
+        "image": "images\/mai.jpg"
+    }
+]
