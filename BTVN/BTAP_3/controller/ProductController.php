@@ -3,6 +3,7 @@ define('BASE_URL', '/BTVN_MVC');
 require_once __DIR__ . '/../model/ProductModel.php';
 class ProductController
 {
+    #Requied index product
     public function index()
     {
         $products = ProductModel::getAllProduct();
